@@ -3,7 +3,7 @@
 <!--
 **Satakshijain/Satakshijain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### About Me
+# 👩🏻‍💻 About Me:
 
 - 👀 I’m currently the GDSC Lead at MIET
 - 🤝 I’m looking to collaborate on Open Source Projects and Tech Events
