@@ -3,7 +3,8 @@
 <!--
 **Satakshijain/Satakshijain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### About
+
+# 👩🏻‍💻 About Me :
 
 - 👀 I’m currently the GDSC Lead at MIET
 - 🤝 I’m looking to collaborate on Open Source Projects and Tech Events
@@ -12,7 +13,9 @@
 - 💬 Ask me about Java, open source, Google Cloud
 - 📫 Reach me at satakshijain2000@gmail.com
 
-## 🌐 Socials:
+
+# 🌐 Connect on  :
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Satakshi#8957) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satakshi-jain-6b9306203) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SatakshiJain2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC2-dsZAs5tOt_dT3a1ol9ow) 
 
 # 💻 Skills
