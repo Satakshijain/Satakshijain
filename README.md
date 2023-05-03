@@ -43,8 +43,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SatakshiJain&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SatakshiJain&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatakshiJain&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satakshijain&theme=vue-dark&hide_border=false&count_private=true" alt="satakshijain" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Satakshijain&icon=0&color=1)](https://visitcount.itsvg.in)
