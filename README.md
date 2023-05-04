@@ -43,7 +43,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SatakshiJain&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satakshijain&theme=vue-dark&hide_border=false&count_private=true" alt="satakshijain" /></p>
 
 ---
