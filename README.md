@@ -1,4 +1,5 @@
-### Hi! I am Satakshi Jain 👋
+<h1 align="center">Hi! I am Satakshi Jain 👋 </h1>
+
 
 <!--
 **Satakshijain/Satakshijain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
