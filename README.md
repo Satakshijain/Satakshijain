@@ -9,10 +9,9 @@
 
 - 👀 I’m currently the GDSC Lead at MIET
 - 🤝 I’m looking to collaborate on Open Source Projects and Tech Events
-- 👩🏻‍💻 I’m currently learning Flutter 
 - 🤔 Exploring new technologies and building solutions
-- 💬 Ask me about Java, open source, Google Cloud
-- 📫 Reach me at satakshijain2000@gmail.com
+- 💬 Ask me about Web development, open source, Google Cloud
+
 
 
 # 🌐 Connect on  :
