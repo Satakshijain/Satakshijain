@@ -7,10 +7,10 @@
 
 # 👩🏻‍💻 About Me :
 
-- 👀 I’m currently the GDSC Lead at MIET
+- 👀 I’m the former Google Developer Student Clubs Lead at GDSC MIET 
 - 🤝 I’m looking to collaborate on Open Source Projects and Tech Events
 - 🤔 Exploring new technologies and building solutions
-- 💬 Ask me about Web development, open source, Google Cloud
+- 💬 Ask me about Web development, open source and Google Cloud
 
 
 
