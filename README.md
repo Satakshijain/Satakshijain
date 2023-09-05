@@ -44,10 +44,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Satakshijain&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satakshijain&theme=vue-dark&hide_border=false&count_private=true" alt="Satakshijain" /> </p>
 
-<p align="left">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Satakshijain&icon=0&color=1)](https://visitcount.itsvg.in)
