@@ -1,4 +1,7 @@
-<h1 align="center">Hi! I am Satakshi Jain  </h1>
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Satakshi Jain </h1>
 
 
 <!--
@@ -7,10 +10,11 @@
 
 # 👩🏻‍💻 About Me :
 
-- 👀 I’m the former Google Developer Student Clubs Lead at GDSC MIET 
+- 👀 I’m the former Google Developer Student Clubs Lead at GDSC MIET
 - 🤝 I’m looking to collaborate on Open Source Projects and Tech Events
 - 🤔 Exploring new technologies and building solutions
 - 💬 Ask me about Web development, open source and Google Cloud
+- 
 
 
 
@@ -42,7 +46,13 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Satakshijain&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satakshijain&theme=vue-dark&hide_border=false&count_private=true" alt="Satakshijain" /> </p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satakshijain&theme=vue-dark&hide_border=false&count_private=true" alt="Satakshijain"/> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Satakshijain&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!!
+
+</div>
